@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>qtquickcontrols2.conf</file>
+        <file>AutoTechnique.qml</file>
+        <file>OurCameraController.qml</file>
+        <file>RenderSettings2.qml</file>
+        <file>Scene2.qml</file>
+        <file>lighting.frag</file>
+        <file>lighting.vert</file>
+        <file>TextureCubeMesh0.qml</file>
+        <file>geo.js</file>
+    </qresource>
+</RCC>
